@@ -1,6 +1,9 @@
 _repo: The-Universal-Counterfeit-and-Altered-Bank-Note-Detector-at-Sight_53907
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Foote's Bank Note Detector, at Sight
+covers:
+- cover_type: archival
+  image_path: 53907-h/images/cover.jpg
 creator:
   author:
     agent_name: Foote, Henry C.
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47610'
     url: http://www.gutenberg.org/2009/agents/47610
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53907#The-Universal-Counterfeit-and-Altered-Bank-Note-Detector-at-Sight
 gutenberg_issued: '2017-01-06'
 gutenberg_type: Text
 identifiers:
